@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Servers</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+	</buildSpec>
+	<natures>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>apache-tomcat-9.0.55 at localhost-config/tomcat-users.xsd</name>
+			<type>1</type>
+			<location>C:/Users/palle/Desktop/tomcat-users.xsd</location>
+		</link>
+	</linkedResources>
+</projectDescription>

@@ -1,0 +1,9 @@
+INDEX VERSION 1.134+C:\Users\palle\eclipse-workspace\.metadata\.plugins\org.eclipse.jdt.core
+143630476.index
+985413812.index
+1106760352.index
+2519828559.index
+3413270776.index
+1865797976.index
+1796897199.index
+3436944374.index
